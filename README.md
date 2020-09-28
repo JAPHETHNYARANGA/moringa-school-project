@@ -19,6 +19,7 @@ Japheth Nyaranga.
 mail: nyaranga4@gmail.com.
 
 ### lINK TO LIVE SITE.
+https://japhethnyaranga.github.io/moringa-school-project/.
 
 ### INSTALLATION INSTRUCTIONS.
 Simple click onto the link and you will be redirected to my portfolio.
